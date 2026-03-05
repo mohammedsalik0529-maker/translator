@@ -1,0 +1,4 @@
+env
+*.pyc
+
+env/Lib/site-packages/pip/__init__.py
